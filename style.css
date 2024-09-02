@@ -1,0 +1,83 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.navbar > .navlink {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.homeSec {
+  background: url("./images/Rectangle\ 7@2x.png"),
+    url("./images/Rectangle\ 7@2x\ \(2\).png"),
+    url("./images/Group\ 11@2x.png");
+  height: 80vh;
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.homeSec>.word1{
+    font-family: "Vollkorn", serif;
+    font-optical-sizing: auto;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    
+    
+
+      
+}
+
+
+.homeSec>.word2{
+  font-family: "Merienda";
+  font-optical-sizing: auto;
+  color: white;
+  text-align: center;
+  
+  
+    
+}
+
+
+.homeSec>.word3{
+  font-family: "Vollkorn", regular;
+  font-optical-sizing: auto;
+  color: white;
+  text-align: center;
+  
+    
+}
+
+
+
+.homeSec>.word4{
+  font-family: "Vollkorn", serif;
+  font-optical-sizing: auto;
+  color: white;
+  text-align: center;
+  
+    
+}
+
+
+.homeSec>.button{
+  font-family: "Vollkorn", serif;
+  color:black;
+  padding: 10px 20px;
+  display: grid;
+  place-items: center;
+  margin-left: 650px;
+
+  
+  
+  
+    
+}
+
+
+
+
